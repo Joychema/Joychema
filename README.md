@@ -1,6 +1,6 @@
 - 👋🏾 Hello, my name is Joy J. Kosgei
 - 🌍 An aspiring GIS Developer & Backend Engineer
-- 🌱 I’m currently learning Foudations on JavaScript
+- 🌱 I’m currently learning Foudations on JavaScript at the OdinProject
 - 👩🏾‍💻 I am skilled in Python/Django, MySQL, HTML&CSS/Bootstrap
 - 📫 You can reach me at kosgeijoy63@gmail.com
 - 👸🏾 Pronouns: She/Her
