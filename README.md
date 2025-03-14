@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Joy J. Kosgei
-- 👀 I’m interested in Creating Web Applications
-- 🌱 I’m currently learning AI & ML
-- 💞️ I’m looking to collaborate on Django projects & Internships
+- 👋🏾 Hello, my name is Joy J. Kosgei
+- 🌍 An aspiring GIS Developer & Backend Engineer
+- 🌱 I’m currently learning Foudations on JavaScript
+- 👩🏾‍💻 I am skilled in Python/Django, MySQL, HTML&CSS/Bootstrap
 - 📫 You can reach me at kosgeijoy63@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love coding🤭
+- 👸🏾 Pronouns: She/Her
+- ⚡ Fun fact: I like watching animations
 
 <!---
 Joychema/Joychema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
